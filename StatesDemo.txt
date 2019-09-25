@@ -1,5 +1,5 @@
 Pushed		(Remote Repository)
 Commited	(Local Repository)
-Added		(Staging Area)
+Added		(Staging Area blahblahblahblah)
 Editted		(Woring Directory)
 More Changes
