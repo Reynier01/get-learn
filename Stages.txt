@@ -1,4 +1,1 @@
-This is pushed
-This is commited
-This is staged
-This is edited
+Initial Commit
