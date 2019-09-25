@@ -1,1 +1,2 @@
 Pushed		(Remote Repository)
+Commited	(Local Repository)
